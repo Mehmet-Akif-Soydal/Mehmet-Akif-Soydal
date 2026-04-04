@@ -1,15 +1,17 @@
-Merhaba, ben Mehmet Akif 👋
+# Merhaba, Ben Mehmet Akif 👋
 
-İstanbul Üniversitesi onaylı yazılım eğitimi sertifikasına sahip yeni yetme bir yazılımcı adayıyım.
-🚀 Öğrendiklerim:
+**İstanbul Üniversitesi** onaylı yazılım eğitimine sahip, kodlamayı bir üretim biçimi olarak gören tutkulu bir **Junior Geliştiriciyim**.
 
-    HTML, CSS, PHP, C#, C++, Python
-    Temel algoritmalar
-    Formlar, veritabanı işlemleri
+> *"Kafama koyduğum projeye başlar, o sistem kusursuz çalışana kadar masadan kalkmam."*
 
-🛠️ Günlük Kodlama Rutinim:
+### 🚀 Yetenek Setim
+- **Diller:** C++, C#, Python, PHP
+- **Web Geliştirme:** HTML5, CSS3
+- **Odak Alanlarım:** Temel Algoritmalar, Veritabanı Yönetimi ve Form İşlemleri
 
-Kafama ne eserse ona başlıyorum ta ki bitene kadar.
-📫 Bana ulaş:
+### 🛠️ Çalışma Felsefem
+Fikirden ürüne... İlham geldiği an klavyenin başına geçerim ve başladığım hiçbir projeyi yarım bırakmam. 
 
-akifbusiness@proton.me
+### 📫 İletişim
+Bana doğrudan ve güvenli bir şekilde ulaşmak için:
+**[akifbusiness@proton.me](mailto:akifbusiness@proton.me)**
