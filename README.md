@@ -1,16 +1,15 @@
-## Hi there 👋
+Merhaba, ben Mehmet Akif 👋
 
-<!--
-**Mehmet-Akif-Soydal/Mehmet-Akif-Soydal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+İstanbul Üniversitesi onaylı yazılım eğitimi sertifikasına sahip yeni yetme bir yazılımcı adayıyım.
+🚀 Öğrendiklerim:
 
-Here are some ideas to get you started:
+    HTML, CSS, PHP, C#, C++, Python
+    Temel algoritmalar
+    Formlar, veritabanı işlemleri
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Günlük Kodlama Rutinim:
+
+Kafama ne eserse ona başlıyorum ta ki bitene kadar.
+📫 Bana ulaş:
+
+akifbusiness@proton.me
