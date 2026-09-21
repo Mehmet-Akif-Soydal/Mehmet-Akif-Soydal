@@ -6,8 +6,7 @@
 
 ### 🚀 Yetenek Setim
 - **Diller:** C++, C#, Python, PHP
-- **Web Geliştirme:** HTML5, CSS3
-- **Odak Alanlarım:** Temel Algoritmalar, Veritabanı Yönetimi ve Form İşlemleri
+- **Web Geliştirme:** HTML, CSS, JS
 
 ### 🛠️ Çalışma Felsefem
 Fikirden ürüne... İlham geldiği an klavyenin başına geçerim ve başladığım hiçbir projeyi yarım bırakmam. 
